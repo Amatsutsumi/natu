@@ -1,6 +1,6 @@
 //ティラノビルダーによる自動ビルド　
 ;debugMenu.visible=false
-;configSave=file
+;configSave=webstorage
 ;global.config_version=5.00
 ;System.title=かぐや姫の末裔
 ;projectID=kaguyahimenomatsuei
