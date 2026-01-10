@@ -1,0 +1,5 @@
+﻿[preload  storage="./data/bgimage/kuro.jpg"  ]
+[preload  storage="./data/bgimage/bunnki03.jpg"  ]
+[preload  storage="./data/bgimage/016b.jpg"  ]
+[preload  storage="./data/bgimage/taitoru01.jpg"  ]
+[return]

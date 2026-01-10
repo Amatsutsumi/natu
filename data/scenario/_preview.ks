@@ -1,0 +1,16 @@
+﻿[_tb_system_call storage=system/_preview.ks ]
+
+[mask time=10]
+[bg  time="10"  method="crossfade"  storage="taitoru01.jpg"  ]
+[playbgm  volume="100"  time="1000"  loop="true"  storage="konisiyuka/kaguyanomatueitukikakukatarikiorgel.ogg"  ]
+[tb_show_message_window] 
+[mask_off time=10]
+[tb_start_tyrano_code]
+[eval exp="sf.syoki1=0"]
+[eval exp="sf.syoki2=1"]
+[eval exp="sf.kaosyoki1=0"]
+[eval exp="sf.kaosyoki2=1"]
+[_tb_end_tyrano_code]
+
+[jump  storage="06title_screen.ks"  target="*syokiseltutei"  ]
+[s  ]
